@@ -151,3 +151,7 @@ entry, validate the transfer and trash payloads, move a file for real and move i
 download params, check the cross-origin gate, read per-account storage, and pull media with a `Range`
 header. needs at least one connected account. use `APP_URL=http://localhost:3001 npm run check` when
 the port differs.
+
+## license
+
+MIT, see [LICENSE](./LICENSE).
